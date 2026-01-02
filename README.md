@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reactfolio V1.2 👩🏽‍🚀
 
 Reactfolio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professiona and visually appealing way. With its responsive design and clean code, Reactfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
@@ -207,3 +208,6 @@ If you are using Apache as your web server, you can insert this into your .htacc
 ## 🌱 Contribution
 
 If you have any suggestions on what to improve in Reactfolio and would like to share them, feel free to leave an issue or fork project to implement your own ideas
+=======
+# Portfolio-Web-React-
+>>>>>>> cb9391e30d685ce4c83d958721b497bef72233b8
